@@ -6,6 +6,7 @@
   "scripts": {
     "tc:build": "cd transport-connect && bubblewrap build",
     "tc:init": "bubblewrap init --manifest=http://localhost:8080/manifest.json --directory=transport-connect",
+    "tc:update": "cd transport-connect && bubblewrap update",
     "tc:serve": "http-server transport-connect -p 8080"
   },
   "license": "ISC",
