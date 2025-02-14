@@ -1,7 +1,7 @@
 {
   "name": "Transport Connect",
   "theme_color": "#1d69b4",
-  "background_color": "#1d69b4",
+  "background_color": "#1B91D4",
   "short_name": "Transport Connect",
   "display": "minimal-ui",
   "start_url": "https://connect.transportnsw.info/activity",

@@ -10,7 +10,7 @@
   "navigationColorDark": "#000000",
   "navigationDividerColor": "#000000",
   "navigationDividerColorDark": "#000000",
-  "backgroundColor": "#1D69B4",
+  "backgroundColor": "#1B91D4",
   "enableNotifications": true,
   "startUrl": "/activity",
   "iconUrl": "http://localhost:8080/android/android-launchericon-512-512.png",
