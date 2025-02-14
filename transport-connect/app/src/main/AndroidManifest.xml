@@ -169,7 +169,7 @@
             
                 <meta-data
                     android:name="android.support.customtabs.trusted.SMALL_ICON"
-                    android:resource="@drawable/ic_notification_icon" />
+                    android:resource="@drawable/ic_launcher" />
             
 
             <intent-filter>
