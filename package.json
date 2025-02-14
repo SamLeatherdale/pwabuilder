@@ -1,0 +1,17 @@
+{
+  "name": "pwabuilder",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tc:build": "cd transport-connect && bubblewrap build",
+    "tc:init": "bubblewrap init --manifest=http://localhost:8080/manifest.json --directory=transport-connect",
+    "tc:serve": "http-server transport-connect -p 8080"
+  },
+  "license": "ISC",
+  "description": "Convert non-PWA websites to PWAs",
+  "dependencies": {
+    "@bubblewrap/cli": "^1.22.3",
+    "http-server": "^14.1.1"
+  }
+}
