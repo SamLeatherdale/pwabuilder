@@ -19,8 +19,8 @@
     "path": "~/repos/tripwatch/keystore.jks",
     "alias": "key0"
   },
-  "appVersionName": "1",
-  "appVersionCode": 1,
+  "appVersionName": "2",
+  "appVersionCode": 2,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "http://localhost:8080/manifest.json",
@@ -38,5 +38,5 @@
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "1"
+  "appVersion": "2"
 }
